@@ -1,0 +1,9 @@
+- 👋 Hi, I’m <b>@luvi0</b>
+- 👀 I’m interested in tecnology, startup´s and pizza..
+- 🌱 I’m currently learning python, R, deep learning...
+- 💞️ I’m looking to collaborate on project´s for mechatronics (obs:i´m student in the engineering of mechatronic), BI,...
+- 📫 How to reach me in Git and linkedin..
+<!---
+luvi0/luvi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->..see you later...
